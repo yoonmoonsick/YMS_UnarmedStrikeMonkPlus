@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="5" revision="0" build="503"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Gloom Stalker Ranger 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Hide_DreadAmbusher;Shout_UmbralCloak;Shout_DisguiseSelf;Target_DreadAmbusher;Projectile_DreadAmbusher"/>
+                    <attribute id="UUID" type="guid" value="5ea6abd7-3e02-4e8d-9220-8a400e0019a4"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
